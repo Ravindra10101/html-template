@@ -1,0 +1,19 @@
+.mainContainer{
+    height: 480px;
+    width: 950px;
+    background-color: white;
+}
+.mainContainer table tr td img{
+    height: 40px;
+    width: 40px;
+
+    
+}
+.mainContainer table tr td b{
+    color: rgb(12, 107, 231);
+}
+
+
+ 
+
+
